@@ -1,0 +1,93 @@
+.t1
+{
+    height: 65px;
+    width: 65px;
+}
+.t2
+{
+    margin-left: 1%;
+    margin-top: .1%;
+}
+.t3
+{
+    width: 70%;
+    height: 60%;
+}
+.t4
+{
+    color: #000000;
+}
+.t5
+{
+    width: 20%;
+}
+h5
+{
+    /* font-family: 'Acme', sans-serif;
+    font-family: 'Electrolize', sans-serif; */
+    font-family: 'Libre Baskerville', serif;
+    /* font-family: 'Lobster', cursive;
+    font-family: 'Monoton', cursive;
+    font-family: 'Orbitron', sans-serif;
+    font-family: 'Play', sans-serif;
+    font-family: 'Righteous', cursive; */
+}
+.style-17
+{
+    background-image: linear-gradient(150deg, navy 0%, dodgerblue 35%, skyblue 50%, rgb(33, 241, 33) 50%, rgb(30, 255, 0) 51%, rgb(3, 95, 3) 100%);
+}
+.h-2-1
+{
+    font-family:  'Electrolize', sans-serif;
+}
+.h-2-2
+{
+    font-family:  'Electrolize', sans-serif;
+}
+h2
+{
+    font-family: 'Libre Baskerville', sans-serif;
+}
+.parallax-container {
+    height: 5em;
+  }
+.p-c {
+    height: 7em;
+} 
+.p-1
+{
+    font-size: 130%;
+    font-family: 'Electrolize', sans-serif;
+}
+.slider
+{
+    width: 100%;
+    height: 100%;
+}
+.capta
+{
+    margin-top: -30px;
+}
+b
+{
+    font-family: 'Play', sans-serif;
+}
+.coll-hig
+{
+    height: 50vh;
+}
+.left-boder-black{
+    border: 5px;
+    border-style: double;
+    border-color: black;
+    border-right: transparent;
+    border-top: transparent;
+    border-bottom: transparent;
+    padding-left: 10px;
+}
+.grad1 {
+    background-image: repeating-linear-gradient( to right, gray 4% , black 8%);
+  }
+.grad2 {
+    background-image: repeating-linear-gradient( to left, gray 4% , black 8%);
+  }
