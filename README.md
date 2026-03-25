@@ -2,33 +2,48 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8f2026c4-1ce0-4679-9836-1421f133a525/deploy-status)](https://app.netlify.com/sites/muddasarsabir/deploys)
 
-# Material Design Portfolio
+# Material Design AI Portfolio
 
-A modern portfolio website built using Material Design principles. This project showcases a clean UI, responsive layout, and optimized frontend structure.
+A modern, responsive portfolio built with Material Design, showcasing projects in Machine Learning, Deep Learning, Computer Vision, NLP, and MLOps.
 
 ## Preview
 
 ![Portfolio Preview](https://repository-images.githubusercontent.com/260772071/a3ce2900-9579-11ea-8190-191fef191c6f)
 
+## About Me
+
+**Muhammad Muddasar Sabir (muddasarsabir)**  
+AI/ML Engineer focused on building scalable, production-grade ML systems.
+
+- Model Development, Training, Optimization  
+- Deep Learning and Generative AI  
+- Computer Vision and NLP pipelines  
+- End-to-End MLOps and Deployment  
+
 ## Tech Stack
 
-This portfolio is designed using:
-
+### Frontend
 - Materialize CSS  
-  https://materializecss.com  
-
-- Font Awesome (icons)  
-  https://fontawesome.com  
-
+- Font Awesome  
 - Material Icons  
-  https://material.io  
-
 - Google Fonts  
-  https://fonts.google.com  
+
+### AI/ML & MLOps (Showcased in Portfolio)
+- PyTorch, TensorFlow, Scikit-learn  
+- Hugging Face Transformers  
+- MLflow for experiment tracking  
+- Docker for containerization  
+- Kubernetes for orchestration  
+
+## Featured Capabilities
+
+- End-to-end ML pipelines from data preprocessing to deployment  
+- Model serving using APIs and microservices  
+- CI/CD integration for ML workflows  
+- Monitoring, logging, and performance tracking  
+- Data drift detection and automated retraining pipelines  
 
 ## Live Deployments
-
-Access the portfolio عبر multiple platforms:
 
 - https://muddasarsabir.github.io  
 - https://muddasarsabir.netlify.app  
@@ -36,10 +51,23 @@ Access the portfolio عبر multiple platforms:
 - https://muddasarsabir.pages.dev  
 - https://muddasarsabir.now.sh  
 
-## About
+## Example Project Areas
 
-This is an additional version of my portfolio website, focused on Material Design styling and frontend experimentation.
+- Computer Vision. Object detection, image classification  
+- NLP. Chatbots, sentiment analysis, LLM applications  
+- Time Series Forecasting  
+- Fraud Detection Systems  
+- Generative AI Applications  
 
----
+## Future Improvements
 
-Feel free to fork, customize, and use it for your own portfolio.
+- Integrate real-time model inference APIs  
+- Add ML dashboards with monitoring metrics  
+- Showcase deployed models with live demos  
+- Add experiment tracking UI snapshots  
+
+## Getting Started
+
+```bash
+git clone https://github.com/muddasarsabir/Material-Design-portfolio.git
+cd Material-Design-portfolio
