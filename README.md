@@ -11,9 +11,9 @@ I use for designing mt portfolio website: 1-materializecss (https://materializec
 (for icon) material (https://material.io), (for fonts) google fonts (https://fonts.google.com)
 
 https://muddasarsabir.github.io
-https://muddasarsabir.netlify.app
 
-https://muddasarsabir.vercel.app
+https://muddasarsabir.netlify.app /n
+https://muddasarsabir.vercel.app /n
 https://muddasarsabir.pages.dev
 
 https://muddasarsabir.now.sh
